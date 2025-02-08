@@ -1,5 +1,5 @@
 # 2D-Geometry-Shooter
 
-A 2D game where you control your entity with WASD keys and shoot enemies with the left mouse botton and create shield with the right mouse button. You also get scores based on the enemies you shoot.
+Enter a fast-paced 2D arcade-style game where you control a geometric shape in a battlefield of unpredictable enemies! Enemies spawn randomly, move in different directions at varying speeds, and carry random scores when defeated. Use precise shooting to eliminate threats or strategically activate a shield—but only at specific time intervals. With chaotic movement and ever-changing challenges, every moment keeps you on edge. Can you survive the geometric onslaught?
 
 ## Please download and watch "demonstration.mp4" for the gameplay demonstration.
